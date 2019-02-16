@@ -1,5 +1,6 @@
-/*
- * Copyright (C) 2015 - present by OpenGamma Inc. and the OpenGamma group of companies
+/*SWAP PRICER by Richard Ruthberg 2018
+ * Using OpenGamma copyrighted open source package.
+ * Copyright (C) 2014 - present by OpenGamma Inc. and the OpenGamma group of companies
  *
  * Please see distribution for license.
  */
